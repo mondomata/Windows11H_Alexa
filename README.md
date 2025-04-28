@@ -22,7 +22,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy Alexa mappá
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>.)
 
 A telepítéshez használt forrás: Windows 11 Pro 24H2. (2025.ápr.)
-Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám programokkal: 
+Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal: 
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok kihagyása a telepítésből (~50!);
 - online Microsoft fiók belépés mellőzése (a Microsoft online "érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
