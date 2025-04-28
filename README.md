@@ -11,7 +11,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy Alexa mappá
 
 2. Csatolj egy legalább 8 GB-os USB tárolót (pendrive) a gépedhez, indítsd el a Balena Etcher-t
    
-3. Válaszd ki az Echer-ben a Flash from File-t, tallózd be a Win11H_Alexa.ISO-t az íráshoz. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal megkezdheted az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re.
+3. Válaszd ki az Etcher-ben a Flash from File-t, tallózd be a Win11H_Alexa.ISO-t az íráshoz. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal megkezdheted az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re.
    
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
    
