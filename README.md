@@ -17,7 +17,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
    
-5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor Esc, F8, F9, F10 billentyűvel megy, ha mégsem, keress rá a te gépedhez a neten).
+5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <b><tt>Esc</tt>, <tt>F8</tt>, <tt>F9</tt>, <tt>F10</tt</b> billentyűvel megy, ha mégsem, keress rá a te gépedhez a neten).
    
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
