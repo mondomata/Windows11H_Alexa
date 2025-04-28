@@ -30,7 +30,7 @@ Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is műkö
 - online Microsoft fiók belépés (a Microsoft online "érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
 
 Ami benne van:
-- .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM kötelez Téged semmire!!!).
+- .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással.).
 Ennyi.
 (A telepítő ingyenes, és az is marad!)
 
