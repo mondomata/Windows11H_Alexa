@@ -26,8 +26,9 @@ Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is műkö
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok kihagyása a telepítésből (~50!);
 - online Microsoft fiók belépés mellőzése (a Microsoft online "érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
+
 Ami benne van:
-- .Alexa könyvtár a rendszeren nagyszerű alap programok telepítésének lehetőségéhez az első bejelentkezés után.
+- .Alexa könyvtár a rendszeren nagyszerű alap programok telepítésének lehetőségéhez az első bejelentkezés után (NEM kötelez semmire!!!).
 Ennyi.
 
 <sup>Tesztelve az alábbi gépen: proci: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</sup>
