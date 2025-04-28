@@ -13,7 +13,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 2. Csatolj egy legalább 8 GB-os USB tárolót (pendrive) a gépedhez, indítsd el a Balena Etcher-t
    
-3. Válaszd ki az Etcher-ben a Flash from File-t, tallózd be a Win11H_Alexa.ISO-t az íráshoz. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal megkezdheted az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re.
+3. Válaszd ki az Etcher-ben a Flash from File-t, tallózd be a fentről letöltött <tt>Win11H_Alexa ISO</tt>-t az USB-re íráshoz. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal megkezdheted az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (kb 3 perc).
    
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
    
@@ -21,7 +21,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>.)
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. Kb. 25-30 perc a folyamat - net sebesség és géperő függvénye.
 
 A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.ápr. Original)</sup>
 Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal: 
