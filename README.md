@@ -34,4 +34,4 @@ Ami benne van:
 Ennyi.
 (A telepítő ingyenes, és az is marad!)
 
-<sup>Tesztelve az alábbi gépen: proci: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</sup>
+<sup>Tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</sup>
