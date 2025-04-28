@@ -24,9 +24,10 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
 
 A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.havi Original kiadás a Microsofttól)</sup>
-Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal: 
+
+A telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal, KIMARAD: 
 - secureboot, és TPM2 ellenőrzés;
-- Windows nyomkövető és reklám programok kihagyása a telepítésből (~50!);
+- Windows nyomkövető és reklám programok (~50 szoftver!);
 - online Microsoft fiók belépés (a Microsoft online "érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
 
 Ami benne van:
