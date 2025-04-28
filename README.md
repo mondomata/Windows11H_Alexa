@@ -1,8 +1,9 @@
-# Windows11H_Alexa ![Alexa-ikon](https://github.com/user-attachments/ashttps://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharingsets/bc2fa4d1-9b41-4b69-b087-dc33e3a1bbf6)
+# Windows11H_Alexa 
+![Alexa-ikon](https://github.com/user-attachments/ashttps://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharingsets/bc2fa4d1-9b41-4b69-b087-dc33e3a1bbf6)
 
-Azoknak szól, akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját, személyi számítógépükkel.
+Ez azoknak szól, akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját, személyi számítógépükkel.
 Az itt írt Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszer telepítést tesz lehetővé, úgy, hogy semmilyen MS vagy más nyomkövető, vagy reklám program nem települ vele. 
-Nem igényli az egyébként kötelező "secureboot"-ot, vagy "TPM2"-t, régi (akár 10-12 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 64 bit-es proci, 8 GB RAM, 64 GB tárhely.)
+Nem igényli az egyébként kötelező "secureboot"-ot, vagy "TPM2"-t, régi (akár 10-12 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is...)
 A "csupasz" Windows használat megkezdése után találsz benne egy Alexa mappát, a tartalmát felhasználva könnyedén - magyarul - telepítheted kedvenc programjaidat.
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharing">A Win11H_Alexa.ISO telepítőt ide kattintva töltheted le</a>
 
