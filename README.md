@@ -1,7 +1,7 @@
 # Windows11H_Alexa
 
 Ez azoknak szól, akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját, személyi számítógépükkel.
-Az itt elérhető Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszer, úgy, hogy semmilyen nyomkövető, vagy reklám program nem települ vele, <b>~50 haszontalan program lett kiiktatva a telepítőből👌</b>. 
+Az itt elérhető Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszer, úgy, hogy semmilyen nyomkövető, vagy reklám program nem települ vele, <b>~50 haszontalan program lett kiiktatva a telepítőből👌, közben megmaradt az eredeti Microsoft Windows eredeti élménye...</b>. 
 Nem igényli az egyébként kötelező "secureboot"-ot, vagy "TPM2"-t, régi (akár 10-12 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is...)
 A "csupasz" Windows használat megkezdése után találsz benne egy Alexa mappát, a tartalmát felhasználva könnyedén - magyarul - telepítheted kedvenc programjaidat.
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharing">A Win11H_Alexa.ISO telepítőt ide kattintva töltheted le</a>
