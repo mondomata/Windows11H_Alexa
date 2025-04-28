@@ -21,7 +21,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. Kb. 25-30 perc a folyamat - net sebesség és géperő függvénye.
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. Kb. 25-30 perc a teljes folyamat - net sebesség és géperő függvénye.
 
 A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.ápr. Original)</sup>
 Ami kimarad a telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal: 
