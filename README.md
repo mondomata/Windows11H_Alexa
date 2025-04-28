@@ -28,7 +28,7 @@ A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.
 A telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal, KIMARAD: 
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver!);
-- online Microsoft fiók belépés (a Microsoft online "érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
+- online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
 
 Ami benne van:
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással.).
