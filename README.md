@@ -33,6 +33,6 @@ A telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne
 Ami benne van:
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással.).
 Ennyi.
-(A telepítő ingyenes, és az is marad!)
+<sub>(A telepítő ingyenes, és az is marad!)</sub>
 
-<sup>Tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</sup>
+<tt>Tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
