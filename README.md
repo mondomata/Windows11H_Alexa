@@ -1,5 +1,4 @@
-# Windows11H_Alexa 
-![Alexa-ikon](https://github.com/user-attachments/ashttps://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharingsets/bc2fa4d1-9b41-4b69-b087-dc33e3a1bbf6)
+# Windows11H_Alexa
 
 Ez azoknak szól, akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját, személyi számítógépükkel.
 Az itt írt Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszer telepítést tesz lehetővé, úgy, hogy semmilyen MS vagy más nyomkövető, vagy reklám program nem települ vele. 
