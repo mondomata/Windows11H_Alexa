@@ -23,7 +23,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
    
-8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd az 5. ponttól.
+8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd a 4. ponttól.
 
 A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.havi Original kiadás a Microsofttól)</sup>
 
