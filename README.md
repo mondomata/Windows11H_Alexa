@@ -1,9 +1,9 @@
 # Windows11H_Alexa🛟
 
 Ezt a "mentőöv"-et azoknak dobom (a riogatást is elhessentve, hogy a Win10 befuccsol), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
-Az itt elérhető Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen nyomkövető, vagy reklám program nem települ vele, <b>~50 haszontalan program lett kiiktatva a telepítőből👌, miközben megmaradtak az eredeti Microsoft Windows eredeti jó élményei...</b>. 
-Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-12 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is...)
-A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak magyarul - telepítheted kedvenc programjaidat.
+Ez a Windows telepítő magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen nyomkövető, vagy reklám program nem települ vele, <b>~50 haszontalan program lett kiiktatva a telepítőből👌, miközben megmaradtak az eredeti Microsoft Windows eredeti jó élményei...</b>. 
+Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-15 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is...)
+A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak "egyenesen, magyarul" - telepítheted kedvenc programjaidat.
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharing"><tt>🪟A Win11H_Alexa.ISO telepítőt ide kattintva töltheted le❤️🪂</tt></a>
 
 <hr>
@@ -23,16 +23,16 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
    
-8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd a 4. ponttól.
+8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd (a programfájllal) az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd a 4. ponttól.
 
-A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.havi Original kiadás a Microsofttól)</sup>
+<tt>A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.havi Original kiadás a Microsofttól)</sup></tt>
 
-A telepítésből, annak érdekében, hogy régebbi gépen is működjön és ne legyen tele felesleges nyomkövető és reklám, meg más haszontalan "helyfoglaló" programokkal, KIMARAD: 
+A telepítésből KIMARAD: 
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver!);
-- online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához), helyette helyi fióknév választás és létrehozás (rendszergazda);
+- online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
-Ami benne van:
+Ami BENNE van:
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással.).
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
