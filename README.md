@@ -33,7 +33,7 @@ A telepítésből KIMARAD:
 - online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
 Ami BENNE van:
-- .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (De ez NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással.).
+- .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
 
