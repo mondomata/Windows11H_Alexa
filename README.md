@@ -37,4 +37,4 @@ Ami BENNE van:
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
 
-<tt>Tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
+<tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
