@@ -25,7 +25,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd (a programfájllal) az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd a 4. ponttól.
 
-<tt>A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04., eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
+<tt>A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 A telepítésből KIMARAD: 
 - secureboot, és TPM2 ellenőrzés;
