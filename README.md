@@ -9,7 +9,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 <hr>
 🛠️🛠️🛠️
 
-1. Töltsd le a Balena Etchert (letöltőhely: https://etcher.balena.io/ zöld Download Etcher gomb, vagy közvetlenül: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe <sub>most kivételesen, ha szoktad is, ne használj Rufust, de ha ismered, akkor ajánlott a ventoy progi is.</sub>).
+1. Töltsd le a Balena Etchert (letöltőhely: https://etcher.balena.io/ zöld Download Etcher gomb, vagy közvetlenül: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe <sub>most kivételesen, ha szoktad is, ne használj Rufust, de ha ismered, akkor ajánlott a ventoy progi is*.</sub>).
 
 2. Csatolj egy legalább 8 GB-os USB tárolót (pendrive, ne legyen rajta semmi fontos!) a gépedhez, indítsd el a Balena Etcher-t
    
@@ -22,6 +22,8 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
+   
+8. Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd az útmutató szerint az USB tárolóra, majd egyszerűen másold az ISO-t is ugyanoda, és folytasd az 5. ponttól.
 
 A telepítéshez használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(2025.04.havi Original kiadás a Microsofttól)</sup>
 
