@@ -27,12 +27,12 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 <tt>A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
-A telepítésből KIMARAD: 
+* A telepítésből KIMARAD: *
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver!);
 - online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
-Ami BENNE van:
+* Ami BENNE van: *
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
