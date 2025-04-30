@@ -29,7 +29,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
   *A telepítésből KIMARAD:*
 - secureboot, és TPM2 ellenőrzés;
-- Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver, lásd a csatolt fájlban!); (⛔ezzel felesleges és instabilitást okozhat utólag külső debloating és disable telemetry, meg hasonló programok használata)
+- Windows nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ezzel felesleges és instabilitást okozhat utólag külső debloating és disable telemetry, meg hasonló programok használata)
 - online Microsoft fiók (az "élénk online érdeklődés" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
   *Ami BENNE van:*
