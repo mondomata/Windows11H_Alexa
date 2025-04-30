@@ -45,7 +45,7 @@ DirectX - https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
 
-*Erősen javasolt DirectX és Driver Booster update-kkel kezdeni a rendszer telepítés után...* <sub> Gyors, pontos driver telepítéshez, mielőtt aktiválná magát a rendszerbe épített Windows Update és teledobálná hibás driverekkel (egyre jobb, de nem tökéletes a rendszer belső drivertelepítője).
+*Erősen javasolt DirectX és Driver Booster update-ekkel kezdeni a rendszer telepítés után...* <sub> Gyors, pontos driver telepítéshez, mielőtt aktiválná magát a rendszerbe épített Windows Update és teledobálná hibás driverekkel (egyre jobb, de nem tökéletes a rendszer belső drivertelepítője).
 ... ha még nem tetted meg, javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és ugyanezért megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sub>
 
 
