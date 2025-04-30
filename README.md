@@ -1,7 +1,5 @@
 # Windows11H_Alexa🛟
 
-*Update: hamarosan... driver booster -https://www.iobit.com/en/driver-booster.php - beépítés Alexa mappába... addig is erősen javasolt ezzel kezdeni a telepítés után...<sup> Gyors, pontos driver telepítéshez, mielőtt beelőzne a rendszer Windows Update és teledobálná nem odavalókkal a Windowst.) ...addig is javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sup>*
-
 Ezt a "mentőöv"-et azoknak dobom (a riogatást is elhessentve, hogy a Win10 befuccsol<sup> tömeghír, hogy 2025 ősztől nem támogatja a gyártó /ez így nem teljesen igaz)</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
 Ez a <CODE><b><i>WINDOWS 11 TELEPÍTŐ</i></b></CODE> magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen nyomkövető, vagy reklám program nem települ vele, <b>~50 haszontalan program lett kiiktatva a telepítőből👌, miközben megmaradtak az eredeti Microsoft Windows eredeti jó élményei...</b>. 
 Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-15 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is...)
@@ -39,6 +37,9 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
+
+*✝ Update: https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe és driver booster -https://www.iobit.com/en/driver-booster.php - erősen javasolt ezekkel kezdeni a telepítés után...<sup> Gyors, pontos driver telepítéshez, mielőtt beelőzne a rendszer Windows Update és teledobálná nem odavalókkal a Windowst.) ...addig is javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sup>*
+
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
 
