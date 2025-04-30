@@ -29,7 +29,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
   *A telepítésből KIMARAD:*
 - secureboot, és TPM2 ellenőrzés;
-- Windows nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ezzel felesleges és instabilitást okozhat utólag külső debloating és disable telemetry, meg hasonló programok használata)
+- Windows nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ felesleges ezért és instabilitást okozhat utólag külső debloating és disable telemetry, meg hasonló parancs programok használata)
 - online Microsoft fiók (az "élénk online érdeklődés" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
 
