@@ -8,7 +8,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 <tt>❗A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 <hr>
-🛠️🛠️🛠️
+#🛠️🛠️🛠️
 
 1. Töltsd le a Balena Etchert: https://etcher.balena.io/ zöld Download Etcher gomb,<sub> vagy közvetlenül: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe | *NE használj helyette ehhez a telepítőhöz ⛔ Rufust!!! Etcher helyett jó a Ventoy - leírása lejjebb* </sub>.
 
