@@ -27,12 +27,12 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 * Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd (a programfájllal) az útmutató szerint az USB tárolóra, majd egyszerűen másold rá az ISO-t is, és folytasd a 4. ponttól.*
 
 
-* A telepítésből KIMARAD: *
+  *A telepítésből KIMARAD:*
 - secureboot, és TPM2 ellenőrzés;
 - Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver, lásd a csatolt fájlban!);
 - online Microsoft fiók (az "élénk online érdeklődés" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
-* Ami BENNE van: *
+  *Ami BENNE van:*
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
 Ennyi.
 <sub>(A telepítő ingyenes, és az is marad!)</sub>
