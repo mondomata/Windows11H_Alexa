@@ -41,7 +41,7 @@ Ennyi.
 
 ✝ Update: DirectX - https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe (ezt 1-2 másodperc alatt letöltheted, rákattintva máris futtathatod) és Driver Booster - https://www.iobit.com/en/driver-booster.php 
 
-Erősen javasolt ezekkel az update-kkel kezdeni a rendszer telepítés után...<sup> Gyors, pontos driver telepítéshez, mielőtt beelőzne a rendszer Windows Update és teledobálná nem odavalókkal a Windowst.) ... ha még nem tetted meg, javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sup>*
+Erősen javasolt ezekkel az update-kkel kezdeni a rendszer telepítés után...<sub> Gyors, pontos driver telepítéshez, mielőtt beelőzne a rendszer Windows Update és teledobálná nem odavalókkal a Windowst.) ... ha még nem tetted meg, javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sub>*
 
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
