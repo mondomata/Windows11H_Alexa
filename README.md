@@ -24,7 +24,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez internetkapcsolat - kábel, vagy wifi - kell</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
    
-* Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd (a programfájllal) az útmutató szerint az USB tárolóra, majd egyszerűen másold rá az ISO-t is, és folytasd a 4. ponttól.*
+* Ha ventoy-t használnál Etcher helyett, azt innen töltsd le: https://sourceforge.net/projects/ventoy/files/v1.1.05/ventoy-1.1.05-windows.zip/download , bontsd ki a zip-et, telepítsd (a Ventoy2Disk.exe-vel) az útmutató szerint az USB tárolóra, majd egyszerűen másold rá az ISO-t is, és folytasd a 4. ponttól.*
 
 
   *A telepítésből KIMARAD:*
