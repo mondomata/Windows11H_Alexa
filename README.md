@@ -45,4 +45,4 @@ Ennyi.
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
 
-<sub>Az író nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ilyen ez a Windows is.</sub>
+<sub>Az író nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló", de "mókolatlan" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ilyen ez a Windows is.</sub>
