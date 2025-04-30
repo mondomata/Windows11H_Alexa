@@ -36,7 +36,6 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
   *Ami BENNE van:*
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
 Ennyi.
-<sub>(A telepítő ingyenes, és az is marad!)</sub>
 
    *💥Telepítés UTÁN:*
 
@@ -46,3 +45,4 @@ Ennyi.
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.</tt>
 
 <sub>Az író nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló", de "mókolatlan" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ilyen ez a Windows is.</sub>
+<sub>(A telepítő ingyenes, és az is marad!💝)</sub>
