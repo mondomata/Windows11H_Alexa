@@ -29,8 +29,8 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 * A telepítésből KIMARAD: *
 - secureboot, és TPM2 ellenőrzés;
-- Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver!);
-- online Microsoft fiók (a Microsoft "élénk érdeklődésének" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
+- Windows nyomkövető és reklám programok, egyéb "hulladék" (~50 szoftver, lásd a csatolt fájlban!);
+- online Microsoft fiók (az "élénk online érdeklődés" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 
 * Ami BENNE van: *
 - .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
