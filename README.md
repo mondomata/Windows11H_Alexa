@@ -30,7 +30,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
   <b>
 
-     *A telepítésből KIMARAD:*
+*A telepítésből KIMARAD:*
      
 - secureboot, és TPM2 ellenőrzés (a szokványos telepítő ezek nélkül nem működik);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
