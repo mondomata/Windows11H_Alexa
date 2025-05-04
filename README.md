@@ -46,7 +46,7 @@ Ennyi.
 *💥Telepítés UTÁN javasolt (.Alexa mappában írtakon kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
-(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő...)
+(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... A fogékonyabbak a gépük gyártójának honlapjáról - pontos géptípus alapján! - gondosan lementhetik a chipset drivereket és az ISO fájl USB-re írása után ezeket is mellé másolhatják, majd telepítés után futtathatják az új Windowson...)
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
