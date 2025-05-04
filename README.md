@@ -30,7 +30,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
   <b>
 
-*A telepítésből KIMARAD:*
+*😈 A telepítésből KIMARAD 💩 :*
      
 - secureboot, és TPM2 ellenőrzés (a szokványos telepítő ezek nélkül nem működik);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
@@ -38,17 +38,15 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
   </b>
 
-  *Ami BENNE van:*
-  
+*😎 Ami BENNE van 👀 :*
   
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, MS Office, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
-   *💥Telepítés UTÁN javasolt (a .Alexa mappában írtakon kívül):*
+*💥Telepítés UTÁN javasolt (.Alexa mappában írtakon kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
-(Egyre jobb, de nem tökéletes a rendszerbe épített drivertelepítő...)
-
+(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő...)
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
