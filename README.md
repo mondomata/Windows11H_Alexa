@@ -29,33 +29,30 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 
   <b>
-     <u>
-  *A telepítésből KIMARAD:*
-     </u>
+
+     *A telepítésből KIMARAD:*
+     
 - secureboot, és TPM2 ellenőrzés (a szokványos telepítő ezek nélkül nem működik);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
   </b>
+
   *Ami BENNE van:*
+  
+  
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, MS Office, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
-   *💥Telepítés UTÁN:*
-
-✝ Update: 
-
-DirectX - https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe <sup>(ezt 1 klikkel 1-2 másodperc alatt letöltheted a Microsofttól, rákattintva máris futtathatod)</sup> 
+   *💥Telepítés UTÁN javasolt (a .Alexa mappában írtakon kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
-
-*Erősen javasolt DirectX-szel és Driver Boosterrel kezdeni a rendszer telepítés után...* <sub> Gyors, pontos driver telepítéshez, mielőtt aktiválná magát a rendszerbe épített Windows Update és teledobálná hibás driverekkel (egyre jobb, de nem tökéletes a rendszer belső drivertelepítője).
-... ha még nem tetted meg, javasolt futtatni a dxdiag.exe -t (jobb klikk a Startmenün - Futtatás - <tt>dxdiag</tt> begépelés - Enter), ellenőrizendő, hogy jelez-e hibát és ugyanezért megnézni az Eszközkezelőt is (jobb klikk a Startmenün, Eszközkezelő).</sub>
+(Egyre jobb, de nem tökéletes a rendszerbe épített drivertelepítő...)
 
 
 <tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
-<sub>⚠*Bátrabb, tapasztalt felhasználóknak. Meglévő Windows rendszeren 2. rendszernek (dual boot) Alexa telepítés menete: az ISO fájlt csatlakoztatva virt. meghajtóra egy kb. 10 GB-os erre a célra kreált FAT32 partícióra másolva a teljes tartalmát, futtatni kell a ISO tartalomban lévő setup.exe -t a meglévő Windows-ból. Ezzel elindul az új telepítési folyamat (a régi Windows megtartásával), a telepítőben zsugorítani kell a meglévő régi Windows partíciót, és az így kreált új, üres partícióra (javasolt min.64GB) telepíteni ezt. Gép indításkor 2 Windows között lehet majd választani.</sub>
+<sub>⚠*Bátrabb, tapasztalt felhasználóknak. Meglévő Windows mellé, 2. rendszernek (dual boot) Alexa telepítés menete: az ISO fájlt csatlakoztatva virtuális meghajtóra és egy 8 GB-os erre a célra kreált FAT32 partícióra másolva a teljes tartalmát, a "másolatból" futtatni kell a  <tt>setup.exe</tt> -t . Ezzel elindul az új telepítési folyamat (a régi Windows megtartásával), a telepítőben partícionáláskor zsugorítani kell a meglévő régi Windows partíciót, és az így kreált új, üres partícióra (javasolt min. 64GB) telepíteni az újat. Gép indításkor 2 Windows között lehet majd választani.</sub>
 <hr>
 
 <sub>A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló", de "mókolatlan" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ilyen ez a Windows is.</sub>
