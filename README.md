@@ -24,17 +24,21 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. KÉSZ. (Időigény: 20-30 perc átlagos internet sebesség és régebbi proci + SSD esetén,  a <b>telepítéshez online internetkapcsolat - kábel, vagy wifi - erősen ajánlott (hiábavaló a sok ellentétes 5let)</b>. A teljes folyamat ideje net sebesség és géperő függvénye.
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein (az elején válaszd a "Windows 11 Pro"-t, termékkulcs kéréskor válaszd a "Nincs termékkulcsom" lehetőséget, partíció választásnál pedig ügyelj, hogy mit választasz, ennek nézz utána előtte). KÉSZ.
+   Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. 30 perc. Kábel net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internet"-et. (Természetesen később   kapcsolódhatsz pár kattintással a netedre.)
    
 
-  *<u>A telepítésből KIMARAD:</u>*
-- secureboot, és TPM2 ellenőrzés;
-- Windows nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt felesleges és instabilitást okozhat utólag külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
-- online Microsoft fiók (az "élénk online érdeklődés" korlátozásához) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
+  <b>
+     <u>
+  *A telepítésből KIMARAD:*
+     </u>
+- secureboot, és TPM2 ellenőrzés (a szokványos telepítő ezek nélkül nem működik);
+- Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
+- online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
-
+  </b>
   *Ami BENNE van:*
-- .Alexa könyvtár nagyszerű és/vagy egyszerű programok telepítésének lehetőségével az első bejelentkezés után (NEM KÖTELEZ TÉGED semmire!!! Törölhető is 1 kattintással).
+- <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, MS Office, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
    *💥Telepítés UTÁN:*
