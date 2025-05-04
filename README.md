@@ -8,7 +8,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharing"><tt> 🪟 A Win11H_Alexa.ISO telepítőt ide kattintva töltheted le ❤️ 🪂 </tt></a>
 -->
 
-<tt>❗A telepítőhöz használt forrás: Microsoft Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
+<tt>❗A telepítőhöz használt forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 <hr>
 #🛠️🛠️🛠️
 
