@@ -24,7 +24,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein (az elején válaszd a "Windows 11 Pro"-t, termékkulcs kéréskor válaszd a "Nincs termékkulcsom" lehetőséget, partíció választásnál pedig ügyelj, hogy mit választasz, ennek nézz utána előtte). KÉSZ.
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein (a telepítő elején: termékkulcs? válaszd a "Nincs termékkulcsom"-at, majd a felsorolt lehetőségek közül válaszd a "Windows 11 Pro"-t, partíció választásnál pedig ügyelj, hogy mit választasz (ajánlott legalább 64 GB üres hely), ennek nézz utána előtte guglival, ha nem vagy biztos benne. KÉSZ.
    Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. 30 perc. Kábel net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internet"-et. (Természetesen később   kapcsolódhatsz pár kattintással a netedre.)
    
 
