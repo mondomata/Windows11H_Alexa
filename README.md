@@ -7,7 +7,7 @@ Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-15 éves) számít
 A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak "egyenesen, magyarul" - telepítheted kedvenc programjaidat. 
 
 <hr>
-#🛠️🛠️🛠️
+#🛠️⚙️
 
 1. Töltsd le a Balena Etchert: https://etcher.balena.io/ zöld Download Etcher gomb, vagy közvetlenül: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust, vagy Ventoy-t! ⛔ </sub>.
 
