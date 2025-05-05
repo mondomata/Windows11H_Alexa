@@ -1,28 +1,28 @@
 # Windows11H_Alexa🛟
-<a href="https://...........">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗A telepítőhöz használt forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
+<a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗A telepítőhöz használt forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 Ezt a "mentőöv"-et azoknak dobom (a riogatást is elhessentve, hogy a Win10 befuccsol<sup> tömeghír, hogy 2025 ősztől nem támogatja a gyártó /ez így nem teljesen igaz)</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
 Ez a <CODE><b><i>WINDOWS 11 TELEPÍTŐ</i></b></CODE> magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen haszontalan, nyomkövető, vagy reklám program nem települ vele: <b>~50 program lett kiiktatva a telepítőből👌, miközben megmaradtak az eredeti Microsoft Windows eredeti jó élményei, anélkül, hogy a gyári telepítőn rendszer módosítás lenne...</b>. 
-Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-15 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is... Persze újabb, vagy extrém jó vason is kiválóan működik.🤗)
+Nem igényli a "kötelező hardvert", régi (akár 10-15 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is... Persze újabb, vagy extrém jó vason is kiválóan működik.🤗)
 A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak "egyenesen, magyarul" - telepítheted kedvenc programjaidat. 
 
 <hr>
 #🛠️⚙️
 
-1. Töltsd le a Balena Etchert: https://etcher.balena.io/ zöld Download Etcher gomb, vagy közvetlenül: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust, vagy Ventoy-t! ⛔ </sub>.
+1. Töltsd le a Balena Etchert: https://etcher.balena.io/ webhelyen a zöld Download Etcher gombbal, vagy közvetlenül ide kattintva: https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust, vagy Ventoy-t! ⛔ </sub>.
 
-2. Csatolj egy legalább 8 GB-os USB adattárolót (ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩) a gépedhez, indítsd el a Balena Etcher-t
+2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez (ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩), indítsd el a Balena Etcher-t
    
-3. Válaszd ki az Etcher-ben a Flash from File-t, tallózd be a fentről letöltött <tt>Win11H_Alexa ISO</tt>-t. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (kb 3 perc az írás).
+3. Válaszd ki a Flash from File-t, tallózd be a fentről letöltött <tt>Win11H_Alexa ISO</tt>-t. A Select Target gombbal válaszd ki írásra az USB tárolód. Flash gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (kb 3 perc az írás).
    
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
    
-5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <b><tt>Esc</tt>, <tt>F8</tt>, <tt>F9</tt>, <tt>F10</tt></b> billentyűvel megy, ha mégsem, keress rá a te gépedhez a neten).
+5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <b><tt>Esc</tt>, <tt>F8</tt>, <tt>F9</tt>, <tt>F10</tt></b> billentyűvel megy, ha mégsem, keress rá a neten a Te gépedhez valóra).
    
-6. Válaszd ki betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
+6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein (a telepítő elején: termékkulcs? válaszd a "Nincs termékkulcsom"-at, majd a felsorolt lehetőségek közül válaszd a "Windows 11 Pro"-t, partíció választásnál pedig ügyelj, hogy mit választasz (ajánlott legalább 64 GB üres hely), ennek nézz utána előtte guglival, ha nem vagy biztos benne. KÉSZ.
-   Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. 30 perc. Kábel net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internet"-et. (Természetesen később   kapcsolódhatsz pár kattintással a netedre.)
+   Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. 30 perc. *Vezetékes net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internet"-et. (Természetesen később kapcsolódhatsz pár kattintással a netedre.)*
    
 
   <b>
