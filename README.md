@@ -40,15 +40,15 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, MS Office, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
-*💥Telepítés UTÁN javasolt (.Alexa mappában írtakon kívül):*
+*💥Telepítés UTÁN javasolt (.Alexa mappán kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
-(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... A fogékonyabbak a gépük gyártójának honlapjáról - pontos géptípus alapján! - gondosan lementhetik a chipset drivereket és az ISO fájl USB-re írása után ezeket is mellé másolhatják, majd telepítés után futtathatják az új Windowson...)
+(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott a többszázezer eszköz drivert magába foglaló booster.)
 
 <tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Meglévő Windows mellé, 2. rendszernek (dual boot) Alexa telepítés menete: az ISO fájlt csatlakoztatva virtuális meghajtóra és egy 8 GB-os erre a célra kreált FAT32 partícióra másolva a teljes tartalmát, a "másolatból" futtatni kell a  <tt>setup.exe</tt> -t . Ezzel elindul az új telepítési folyamat (a régi Windows megtartásával), a telepítőben partícionáláskor zsugorítani kell a meglévő régi Windows partíciót, és az így kreált új (min. ~64 GB) partícióra telepíteni az újat. Gép indításkor 2 Windows között lehet majd választani.</sub>
 <hr>
 
-<sub>A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló", de "mókolatlan" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ilyen ez a Windows is.</sub>
+<sub>A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen.</sub>
 <sub>(😎A telepítő ingyenes, és az is marad!💝)</sub>
