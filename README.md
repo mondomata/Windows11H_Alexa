@@ -30,14 +30,14 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 *😈 A telepítésből KIMARAD 💩 :*
      
 - secureboot, és TPM2 ellenőrzés (a szokványos telepítő ezek nélkül nem működik);
-- Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus")
+- Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "neonity xtremeshell", "raphire", "christitus" - ez utóbbi egyéb zseniális funkciói miatt benne van a telepítésben)
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
   </b>
 
 *😎 Ami BENNE van 👀 :*
   
-- <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, MS Office, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
+- <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, VLC, MS Office, ChrisTitusTools, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
 *💥Telepítés UTÁN javasolt (.Alexa mappán kívül):*
