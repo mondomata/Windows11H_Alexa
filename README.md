@@ -1,14 +1,11 @@
 # Windows11H_Alexa🛟
-<a href="https://...........">*Win11H_Alexa5-5-5.ISO LETÖLTÉS🎯*</a>
+<a href="https://...........">*Win11H_Alexa5-5-5 TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗A telepítőhöz használt forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 Ezt a "mentőöv"-et azoknak dobom (a riogatást is elhessentve, hogy a Win10 befuccsol<sup> tömeghír, hogy 2025 ősztől nem támogatja a gyártó /ez így nem teljesen igaz)</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
 Ez a <CODE><b><i>WINDOWS 11 TELEPÍTŐ</i></b></CODE> magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen haszontalan, nyomkövető, vagy reklám program nem települ vele: <b>~50 program lett kiiktatva a telepítőből👌, miközben megmaradtak az eredeti Microsoft Windows eredeti jó élményei, anélkül, hogy a gyári telepítőn rendszer módosítás lenne...</b>. 
 Nem igényli a kötelező hardvert/szoftvert, régi (akár 10-15 éves) számítógépre (PC, laptop, notebook) is települ, és stabilan használható. (Ajánlott minimumok: 8 GB RAM, 64 GB tárhely. 64 bit-es proci kell, de ezt már tudják a 10+éves gépek is... Persze újabb, vagy extrém jó vason is kiválóan működik.🤗)
-A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak "egyenesen, magyarul" - telepítheted kedvenc programjaidat. <!--
-<a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=sharing"><tt> 🪟 A Win11H_Alexa.ISO telepítőt ide kattintva töltheted le ❤️ 🪂 </tt></a>
--->
+A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a tartalmát felhasználva könnyedén - megint csak "egyenesen, magyarul" - telepítheted kedvenc programjaidat. 
 
-<tt>❗A telepítőhöz használt forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 <hr>
 #🛠️🛠️🛠️
 
