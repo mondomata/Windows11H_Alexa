@@ -45,7 +45,7 @@ Ennyi.
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
 (Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... A fogékonyabbak a gépük gyártójának honlapjáról - pontos géptípus alapján! - gondosan lementhetik a chipset drivereket és az ISO fájl USB-re írása után ezeket is mellé másolhatják, majd telepítés után futtathatják az új Windowson...)
 
-<tt>Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
+<tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Meglévő Windows mellé, 2. rendszernek (dual boot) Alexa telepítés menete: az ISO fájlt csatlakoztatva virtuális meghajtóra és egy 8 GB-os erre a célra kreált FAT32 partícióra másolva a teljes tartalmát, a "másolatból" futtatni kell a  <tt>setup.exe</tt> -t . Ezzel elindul az új telepítési folyamat (a régi Windows megtartásával), a telepítőben partícionáláskor zsugorítani kell a meglévő régi Windows partíciót, és az így kreált új (min. ~64 GB) partícióra telepíteni az újat. Gép indításkor 2 Windows között lehet majd választani.</sub>
 <hr>
