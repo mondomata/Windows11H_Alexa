@@ -40,7 +40,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, VLC, MS Office, ChrisTitusTools, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
-*💥Telepítés UTÁN javasolt (.Alexa mappán kívül):*
+*💥Telepítés UTÁN azonnal javasolt (.Alexa mappán kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
 (Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott a többszázezer eszköz drivert magába foglaló booster.)
