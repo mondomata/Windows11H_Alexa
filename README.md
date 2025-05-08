@@ -37,7 +37,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 *😎 Ami BENNE van 👀 :*
   
-- <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, VLC, MS Office, ChrisTitusTools, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
+- <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, Firefox, VLC, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
 Ennyi.
 
 *💥Telepítés UTÁN azonnal javasolt (.Alexa mappán kívül):*
