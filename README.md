@@ -29,7 +29,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 *😈 A telepítésből KIMARAD 💩 :*
      
-- secureboot, és TPM2 ellenőrzés, valamint a beépített RAM minimum ellenőrzése (a szokványos telepítő ezek nélkül nem működik <sup><a href="https://www.microsoft.com/hu-hu/windows/windows-11-specifications">Lásd részletesebben ide kattintva.</a></sup>);
+- secureboot, és TPM2 ellenőrzés, valamint a beépített RAM minimum ellenőrzése (a gyártói telepítő ezek nélkül nem működik <sup><a href="https://www.microsoft.com/hu-hu/windows/windows-11-specifications">Lásd részletesebben ide kattintva.</a></sup>);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "Neonity xtremeshell", "Raphire debloat tool", "ChrisTitusTech" <sup>- ez utóbbi egyéb zseniális funkciói miatt benne van a telepítésben</sup>)
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, erősen ajánlott ezeket a te géped gyártó honlapjáról előre beszerezve szintén az USB-re másolni, majd azonnal telepíteni az első indítás után)
