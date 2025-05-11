@@ -43,7 +43,7 @@ Ennyi.
 *💥Telepítés UTÁN azonnal javasolt (.Alexa mappán kívül):*
 
 Driver Booster - https://www.iobit.com/en/driver-booster.php 
-(Egyre jobb, de nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott a többszázezer eszköz drivert magába foglaló booster.)
+(Nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott a milliónyi eszköz drivert magába foglaló booster.)
 
 <tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
 
