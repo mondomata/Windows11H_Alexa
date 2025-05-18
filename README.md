@@ -33,12 +33,12 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "Neonity xtremeshell", "Raphire debloat tool", "ChrisTitusTech" <sup>- ez utóbbi egyéb zseniális funkciói miatt benne van a telepítésben</sup>)
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, ha tudod, hogyan, ajánlott a te géped alaplap gyártó honlapjáról a chipset driver telepítőt, vagy drivereket előre beszerezveszintén az USB-re másolni, majd azonnal telepíteni az első indítás után<sub> ha nem tudod, lejjebb találsz más megoldást</sub>)
-   (🥇*intel driver telepítők* Alexa 5.5.12-től az iso-ban vannak!) 
   </b>
 
 *😎 Ami BENNE van 👀 :*
   
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, Firefox, VLC, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
+- 🥇*intel driver telepítők* Alexa 5.5.12-től az iso-ban vannak!
 Ennyi.
 
 *💥Telepítés UTÁN azonnal javasolt (.Alexa mappán kívül):*
