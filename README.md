@@ -9,9 +9,9 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 <hr>
 #🛠️⚙️
 
-1. Töltsd le a <a href="https://etcher.balena.io/">Balena Etchert innen</a>, a webhelyen a zöld *Download Etcher* gombbal, vagy közvetlenül: <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a> | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔ </sub>.
+1. Töltsd le a <a href="https://etcher.balena.io/">Balena Etchert innen</a>, a webhelyen a zöld *Download Etcher* gombbal, vagy közvetlenül: <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a> | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔</sub>.
 
-2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez (ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩), indítsd el a Balena Etcher-t
+2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez (ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩,  telepítés után formázással újra használható), indítsd el a Balena Etcher-t
    
 3. Válaszd ki a *Flash from File*-t, tallózd be a fentről letöltött <tt>Win11H_Alexa ISO</tt>-t. A *Select Target* gombbal válaszd ki írásra az USB tárolód. *Flash* gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (kb 3 perc az írás).
    
@@ -32,21 +32,20 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - secureboot, és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepítő ezek nélkül nem működik <sup><a href="https://www.microsoft.com/hu-hu/windows/windows-11-specifications">részletek itt</a></sup>);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "Neonity xtremeshell", "Raphire debloat tool", "ChrisTitusTech" <sup>- ez utóbbi egyéb zseniális funkciói miatt benne van a telepítésben</sup>)
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
-- a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS telpítőben sincs/, ha tudod, hogyan, ajánlott a te géped alaplap gyártó honlapjáról a chipset driver telepítőt, vagy drivereket előre beszerezveszintén az USB-re másolni, majd azonnal telepíteni az első indítás után<sub> ha nem tudod, lejjebb találsz más megoldást</sub>)
+- a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS "gyári" telpítőben sincs/, lehetséges megoldás: lásd lejjebb...</sub>)
   </b>
 
 *😎 Ami BENNE van 👀 :*
   
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, Firefox, VLC, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
-- 🥇*intel driver telepítők* Alexa 5.5.12-től az iso-ban vannak!
+- 🥇*intel driver telepítők, driver booster általános driver telepítő* : Alexa 5.5.12-től benne vannak!
 Ennyi.
 
-*💥Telepítés UTÁN azonnal javasolt (.Alexa mappán kívül):*
+*💥Telepítés UTÁN azonnal javasolt:*
 
-Driver Booster - https://www.iobit.com/en/driver-booster.php 
-(Nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott a milliónyi eszköz drivert magába foglaló booster.)
+Nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott inteles gép esetén az .Alexa-ból az intel driver telepítő, és a milliónyi eszköz drivert magába foglaló booster. Tűzfal javaslat: https://tinywall.pados.hu/ (magyar fejlesztés, telepítés után magyarnyelvű).
 
-<tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅</tt>
+<tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ (*ui.:2025. május 12-től főrendszerként funkcionál tökéletesen)</tt>
 
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióról az ISO kibontott tartalmát arra másolva, onnan a setup.exe-vel indítva is működik 2. Windowsként, dual boot módban az 1.-vel.</sub>
 <hr>
