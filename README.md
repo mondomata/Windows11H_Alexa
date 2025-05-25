@@ -38,7 +38,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 *😎 Ami BENNE van 👀 :*
   
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, Firefox, VLC, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
-- 🥇*intel driver telepítők, driver booster általános driver telepítő* : Alexa 5.5.12-től benne vannak!
+- 🥇*intel driver telepítők* : Alexa 5.5.12-től benne vannak!
 Ennyi.
 
 *💥Telepítés UTÁN azonnal javasolt:*
