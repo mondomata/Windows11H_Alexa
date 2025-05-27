@@ -17,14 +17,13 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
    
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
    
-5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <b><tt>Esc</tt>, <tt>Del</tt>, <tt>F2</tt><tt>F8</tt>, <tt>F9</tt>, <tt>F10</tt></b> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
+5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <b><tt>Esc</tt>,<tt>Del</tt>,<tt>F2</tt>,<tt>F8</tt>,<tt>F9</tt>, <tt>F10</tt>,<tt>F12</tt></b> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
    
 6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. A telepítés elején: ha termékkulcsot kér, válaszd a "*Nincs termékkulcsom*"-at, majd válaszd a "*Windows 11 Pro*"-t, partícionálásnál ügyelj, hogy mit választasz, ha nincs fontos dolgod a gépen, legjobb *minden partíciót törölni* (*Delete*) a tiszta telepítéshez, de ajánlott legalábbis 64 GB üres hely, ennek nézz utána előtte guglival, ha nem vagy biztos benne. KÉSZ.
    Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. +3 perc. *Vezetékes net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internetem"-et. (Természetesen később kapcsolódhatsz pár kattintással a netedre.)*
-   
-
+ 
   <b>
 
 *😈 A telepítésből KIMARAD 💩 :*
