@@ -1,4 +1,4 @@
-# Windows11H_Alexa🛟 5.5.25
+# Windows11H_Alexa🛟 5.5.27
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗Forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 Ezt a "mentőövet" azoknak dobom (a riogatást elhessentve, hogy a Win10 támogatás befuccsol<sup>tény, hogy 2025.10.15-től nem támogatja a gyártó</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
@@ -31,19 +31,19 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
      
 - secureboot, és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepítő ezek nélkül nem működik <sup><a href="https://www.microsoft.com/hu-hu/windows/windows-11-specifications">részletek itt</a></sup>);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata, pl. "Neonity xtremeshell", "Raphire debloat tool", "ChrisTitusTech" <sup>- ez utóbbi egyéb zseniális funkciói miatt benne van a telepítésben</sup>)
-- online Microsoft fiók (az "élénk online érdeklődés" elhárítására) - helyette helyi fióknév (rendszergazda) választás és létrehozás történik;
+- online Microsoft fiók (az "élénk online érdeklődés" elhárítására), helyi fióknév (rendszergazda) választás és felhasználó fiók létrehozás történik;
 - a telepítőben nincsenek specifikus drivertelepítők /ahogy a MS "gyári" telpítőben sincs/, lehetséges megoldás: lásd lejjebb...</sub>)
   </b>
 
 *😎 Ami BENNE van 👀 :*
   
 - <tt>.Alexa</tt> mappa nagyszerű és/vagy egyszerű programok (pl. Chrome, Firefox, VLC, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
-- 🥇*intel driver telepítők* : Alexa 5.5.12-től benne vannak!
+- 🥇*intel driver telepítő* : Alexa 5.5.12-től benne vannak!
 Ennyi.
 
 *💥Telepítés UTÁN azonnal javasolt:*
 
-Nem tökéletes a Windows rendszerbe épített "gyári" drivertelepítő... Helyette ajánlott inteles gép esetén az .Alexa-ból az intel driver telepítő, és a milliónyi eszköz drivert magába foglaló booster. Tűzfal javaslat: https://tinywall.pados.hu/ (magyar fejlesztés, telepítés után magyarnyelvű).
+Ajánlott intel-es gép esetén az .Alexa-ból az intel driver telepítő, más esetben a Driver Booster.
 
 <tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ (*ui.:2025. május 12-től főrendszerként funkcionál tökéletesen)</tt>
 
