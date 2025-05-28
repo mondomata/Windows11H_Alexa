@@ -40,9 +40,9 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - 🥇*intel driver telepítő* : Alexa 5.5.12-től benne vannak!
 Ennyi.
 
-*💥Telepítés UTÁN azonnal javasolt:*
+*💥Telepítés UTÁN azonnal ajánlott:*
 
-Ajánlott intel-es gép esetén az .Alexa-ból az intel driver telepítő, más esetben a Driver Booster.
+ intel proci/alaplapos gép esetén az .Alexa-ból az intel driver telepítő, más esetben a Driver Booster.
 
 <tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ (*ui.:2025. május 12-től főrendszerként funkcionál tökéletesen)</tt>
 
