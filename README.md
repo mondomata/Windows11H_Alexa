@@ -48,5 +48,5 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióról az ISO kibontott tartalmát arra másolva, onnan a setup.exe-vel indítva is működik 2. Windowsként, dual boot módban az 1.-vel.</sub>
 <hr>
 
-<sub>A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen.</sub>
+<sub>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen.</sub>
 <sub>(😎A telepítő ingyenes, és az is marad!💝)</sub>
