@@ -1,4 +1,4 @@
-# Windows11H_Alexa🛟 5.5.27
+# Windows11H_Alexa🛟 5.5.31
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗Forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 Ezt a "mentőövet" azoknak dobom (a riogatást elhessentve, hogy a Win10 támogatás befuccsol<sup>tény, hogy 2025.10.15-től nem támogatja a gyártó</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
@@ -22,7 +22,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő.
     
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. A telepítés elején: ha termékkulcsot kér, válaszd a "*Nincs termékkulcsom*"-at, majd válaszd a "*Windows 11 Pro*"-t, partícionálásnál ügyelj, hogy mit választasz, ha nincs fontos dolgod a gépen, legjobb *minden partíciót törölni* (*Delete*) a tiszta telepítéshez, de ajánlott legalábbis 64 GB üres hely, ennek nézz utána előtte guglival, ha nem vagy biztos benne. KÉSZ.
-   Időigény: kb. 20 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. +3 perc. *Vezetékes net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internetem"-et. (Természetesen később kapcsolódhatsz pár kattintással a netedre.)*
+   Időigény: kb. 25 perc internet kapcsolat nélkül (!), átlagos internet sebesség és régebbi proci + SSD esetén kb. +3 perc. *Vezetékes net vagy wifi nélküli telepítés esetén a telepítőben a kapcsolódásra kérő képernyőn válaszd a "nincs internetem"-et. (Természetesen később kapcsolódhatsz pár kattintással a netedre.)*
  
   <b>
 
@@ -36,7 +36,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 *😎 Ami BENNE van 👀 :*
 - Windows prog.: Edge, Jegyzettömb, Microsoft Store.
-- <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű vagy egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire!!! Akár törölhető is 1 kattintással).
+- <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇*intel driver telepítő*, és *AMD driver telepítő*, DirectX telepítő...
 
 *💥Telepítés UTÁN azonnal ajánlott:*
