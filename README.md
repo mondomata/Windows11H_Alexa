@@ -31,7 +31,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - secureboot, és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepítő ezek nélkül nem működik <sup><a href="https://www.microsoft.com/hu-hu/windows/windows-11-specifications">részletek</a></sup>);
 - Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata)
 - online Microsoft fiók (az "élénk online érdeklődés" elhárítására); helyi fióknév (rendszergazda) választás és felhasználó fiók létrehozás történik;
-- online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni).
+- online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
   </b>
 
 *😎 Ami BENNE van 👀 :*
