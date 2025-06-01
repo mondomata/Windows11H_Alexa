@@ -36,7 +36,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 
 *😎 Ami BENNE van 👀 :*
 - Windows prog.: Edge, Jegyzettömb, Microsoft Store.
-- <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetőségével az első bejelentkezés után (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
+- <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇*intel driver telepítő*, és *AMD driver telepítő*, DirectX telepítő...
 
 *💥Telepítés UTÁN azonnal ajánlott:*
