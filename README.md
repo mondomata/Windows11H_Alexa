@@ -9,7 +9,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 <hr>
 #🛠️⚙️
 
-1. Töltsd le a *Balena Etcher*-t közvetlenül <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a> | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔</sub>.
+1. Töltsd le fenti linken az <code>iso</code> fájlt, majd a *Balena Etcher*-t közvetlenül <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a> | <sub> ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔</sub>.
 
 2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Balena Etcher-t.
    
