@@ -36,9 +36,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 *😎 Ami BENNE van 👀 :*
 - Windows program: Edge, Jegyzettömb, Microsoft Store.
 - <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
-- 🥇*intel driver telepítő*, és *AMD driver telepítő*, DirectX telepítő... *💥Telepítés után azonnal ajánlott.*
-
- a procidnak megfelelő driver telepítő futtatása.
+- 🥇*intel driver telepítő*, és *AMD driver telepítő*, DirectX telepítő... *💥Telepítés után azonnal ajánlott a procidnak megfelelő driver telepítő futtatása.*
 
 <tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ (*ui.:2025. május 12-től főrendszerként funkcionál tökéletesen)</tt>
 
