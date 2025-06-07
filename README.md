@@ -1,5 +1,7 @@
 # Windows11H_Alexa🛟 <sup>5.6.4</sup>
-<a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE🎯*</a> <tt>❗Forrás: Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
+<a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (GDrive)🎯*</a> 
+<a href="https://mega.nz/folder/YJZiFRLQ">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (MEGA)🎯*</a>
+<tt>❗Forrás:Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
 Ezt a "mentőövet" azoknak dobom (a riogatást elhessentve, hogy a Win10 támogatás befuccsol<sup>tény, hogy 2025.10.15-től nem támogatja a gyártó</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
 Ez a <CODE><b><i>WINDOWS 11 TELEPÍTŐ</i></b></CODE> magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen haszontalan, kéretlen, nyomkövető, vagy reklám program nem települ vele: <b>~50 program lett kiiktatva a telepítőből (csak böngészési és MS Store telepítési lehetőség maradt a gyári Win-ből)👌> megmaradtak az eredeti Windows eredeti jó élményei, rendszerszintű módosítás nélkül...</b>. 
