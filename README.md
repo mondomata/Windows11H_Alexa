@@ -38,7 +38,7 @@ A "csupasz" Windows használat megkezdése után találsz benne egy mappát, a t
 - <tt>.Alexa</tt> mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇*intel driver telepítő*, és *AMD driver telepítő*, DirectX telepítő... *💥Telepítés után azonnal ajánlott a procidnak megfelelő driver telepítés.*
 <sup>(Az .Alexa mappa külön is megtalálható az iso letöltőhelyen, érdemes letölteni és a benne lévő újabb fájlokat a régiek helyére/mellé beemelni, használni az új vagy régebbi Windowson) </sup>
-<tt>✅ Sikeresen tesztelve az alábbi gépen: intel i3 7.gen CPU, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ (*ui.:2025. május 12-től főrendszerként funkcionál tökéletesen)</tt>
+<tt>✅ Telepítve az alábbi gépen: intel i3 7.gen CPU /elavult/, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ Jól funkcionál!</tt>
 
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióra másolva  az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel.</sub>
 <hr>
