@@ -3,7 +3,7 @@ Letöltés:
 
 <a href="https://drive.google.com/drive/folders/1PjNjLoUtQdGAW1A2i_0EOtZBQQqCw1Ox?usp=drive_link">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (GDrive)🎯*</a> 
 
-<a href="https://mega.nz/folder/YJZiFRLQ">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (MEGA)🎯*</a>
+<a href="https://mega.nz/folder/YJZiFRLQ#SVjGnGg5Cu_gCwf6CbPY0w">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (MEGA)🎯*</a>
 
 <tt>❗Forrás:Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)</sup></tt>
 
