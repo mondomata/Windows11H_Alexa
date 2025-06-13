@@ -1,4 +1,7 @@
 # Windows11H_Alexa🛟 <sup>5.6.4</sup>
+
+🖐️🖐️🖐️<b>Van még újabb repostorym, keresd a csatornán a Windows11Long_Alexa leírását.</b>
+
 Letöltés:
 
 <a href="https://mega.nz/folder/YJZiFRLQ#SVjGnGg5Cu_gCwf6CbPY0w">*Win11H_Alexa TELEPÍTŐ LETÖLTÉSE (MEGA)🎯*</a>
