@@ -11,7 +11,6 @@ Letöltés:
 
 
 <tt>❗Forrás:Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)
-
 ISO ellenőrző összeg / SHA256 /         094A317D95FA5A560EFD21378DE44E0A8A8DE651C1523EFD9C567F0C7C709DDF </sup></tt>
 
 Ezt a "mentőövet" azoknak dobom (a riogatást elhessentve, hogy a Win10 támogatás befuccsol<sup>tény, hogy 2025.10.15-től nem támogatja a gyártó</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
