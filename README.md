@@ -1,6 +1,6 @@
 # Windows11H_Alexa🛟 <sup>5.6.4</sup>
 
-🖐️🖐️🖐️<b>Van még újabb repostorym, keresd a csatornán a <a href=https://github.com/mondomata/Windows11Long_Alexa>Windows11Long_Alexa</a> leírását.</b>
+🖐️🖐️🖐️<b>Van újabb repostorym a témában: keresd a csatornán a <a href=https://github.com/mondomata/Windows11Long_Alexa>Windows11Long_Alexa</a> leírását.</b>
 
 Letöltés:
 
