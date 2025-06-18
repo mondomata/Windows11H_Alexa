@@ -1,4 +1,4 @@
-# Windows11H_Alexa🛟 <sup>5.6.4</sup>
+# Windows11H_Alexa![{0BA92C3C-B400-4651-88AF-529E0AB25C0B}](https://github.com/user-attachments/assets/9d658da6-8d6f-4684-b26b-a16613120585)🛟 <sup>5.6.4</sup>
 
 🖐️🖐️🖐️<b>Van újabb repostorym a témában: keresd a csatornán a <a href=https://github.com/mondomata/Windows11Long_Alexa>Windows11Long_Alexa</a> leírását.</b>
 
