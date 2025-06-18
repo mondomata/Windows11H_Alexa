@@ -11,7 +11,7 @@ Letöltés:
 
 
 <tt>❗Forrás:Windows 11 Pro 24H2.<sup>(eredeti Microsoft kiadás, build: 26100 1742)
-ISO ellenőrző összeg / SHA256 /         094A317D95FA5A560EFD21378DE44E0A8A8DE651C1523EFD9C567F0C7C709DDF </sup></tt>
+😷 ISO fájl eredetiség ellenőrző összeg / SHA256 / 094A317D95FA5A560EFD21378DE44E0A8A8DE651C1523EFD9C567F0C7C709DDF </sup></tt>
 
 Ezt a "mentőövet" azoknak dobom (a riogatást elhessentve, hogy a Win10 támogatás befuccsol<sup>tény, hogy 2025.10.15-től nem támogatja a gyártó</sup>), akik magyarul beszélnek, akik nem szeretik, hogy <tt>M</tt>á<tt>S</tt> beleszól abba, mit, hogyan csinálnak a saját tulajdonú, SZEMÉLYI számítógépükkel.
 Ez a <CODE><b><i>WINDOWS 11 TELEPÍTŐ</i></b></CODE> magyarul beszél, magyar Windows 11 Pro rendszert épít, úgy, hogy semmilyen haszontalan, kéretlen, nyomkövető, vagy reklám program nem települ vele: <b>~50 program lett kiiktatva a telepítőből (csak böngészési és MS Store telepítési lehetőség maradt a gyári Win-ből)👌> megmaradtak az eredeti Windows eredeti jó élményei, rendszerszintű módosítás nélkül...</b>. 
